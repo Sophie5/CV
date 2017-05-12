@@ -1,7 +1,7 @@
  
 ## Sophie McLean 
   
-I am a animal loving conservationist who loves to travel. I have recently graduated from Reading University where I studied Biological Sciences.  I am looking for a junior programmer role in a company with a  friendly environment where people are as passionate about coding as I am  and where I could continue to expand my knowledge of coding languages and learn new ones.  
+I am a animal loving conservationist who loves to travel.Having recently graduated from Reading University where I studied Biological Sciences, I then completed the 3 month coding bootcamp at Makers Academy in London. I am looking for a junior developer role in a company with a  friendly environment where people are as passionate about coding as I am  and where I can put my new skills into practice and continue to expand my knowledge of coding languages and learn new ones.  
   
 ## Skills  
   
@@ -56,7 +56,7 @@ Rspec, Jasmine, Mocha,
 GitHub
   
 Reading University (2013-2016) 
-BSc Biological Sciences degree 
+BSc Biological Sciences 
   
   
 Combe Bank School (2006-2013) 
