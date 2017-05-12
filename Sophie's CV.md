@@ -45,7 +45,7 @@ During my time at Battersea Park Children's Zoo certain animal enclosures and ot
   
 ## Education: 
   
-  <a href="http://www.makersacademy.com/about-us/>Makers Academy</a> Makers Academy (February 2016 - May 2016) 
+  <a href= "https://www.makersacademy.com/about-us/">Makers Academy</a> Makers Academy (February 2016 - May 2016) 
 
 Makers is Europes leading web development bootcamp. It's a highly selective 12 week course. The program adopts a "learn by doing" approach, which is achieved mostly through self-directed, project-based work. We were encouraged to work in pairs on pratical coding challenges, wu=ith weekly tests, culminating in a final project.
 
