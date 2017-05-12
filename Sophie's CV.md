@@ -32,12 +32,12 @@ During my time at Battersea Park Children's Zoo certain animal enclosures and ot
 <tr>
 <td><a href= "https://github.com/Sophie5/bloc"> Bloc</a></td>
 <td> An online multiplayer isometric game. Users can build patterns out of various different shapes. They can also change the texture or color of the shapes and have the ability to chat and build together.</td>
-<td> Node.js, Webpack, Bootstrap, Socket.io, Isomer.js, MongoDB, Passport.js, Mocha, Chai, Sinon, sinon -chai, Timekeeper, Istanbul, Heroku and Trello </td>
+<td> Node.js, Webpack, Bootstrap, Socket.io, Isomer.js, MongoDB, Passport.js, Mocha, Chai, Sinon, sinon -chai, Timekeeper, Istanbul, Heroku, GitHub and Trello </td>
 </tr>
 <tr>
 <td><a href= "https://github.com/Sophie5/unity-space-shooter">Unity Space Shooter</a></td>
 <td>A space shooter game. Users can fire lasers to destroy enemy ships and asteroids.</td>
-<td> Unity </td>
+<td> Unity, GitHub </td>
 </tr>
 </tbody>
   </table>
@@ -45,13 +45,15 @@ During my time at Battersea Park Children's Zoo certain animal enclosures and ot
   
 ## Education: 
   
-Makers Academy (February 2016 - May 2016) 
-Curiosity and hungry passion for code  
-Independent learner and problem-solver  
+  <a href="http://www.makersacademy.com/about-us/</a> Makers Academy (February 2016 - May 2016) 
+
+Makers is Europes leading web development bootcamp. It's a highly selective 12 week course. The program adopts a "learn by doing" approach, which is achieved mostly through self-directed, project-based work. We were encouraged to work in pairs on pratical coding challenges, wu=ith weekly tests, culminating in a final project.
+
 OOP, TDD, SOLID, MVC, DDD  
 Software Craftsmanship  
 Ruby, Rails, Javascript, Node.js, Angular.js  
 Rspec, Jasmine, Mocha 
+GitHub
   
 Reading University (2013-2016) 
 BSc Biological Sciences degree 
