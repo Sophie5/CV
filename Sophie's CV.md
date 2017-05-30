@@ -51,8 +51,9 @@ Makers is Europes leading web development bootcamp. It's a highly selective 12 w
 
 OOP, TDD, SOLID, MVC, DDD  
 Software Craftsmanship  
-Ruby, Rails, Javascript, Node.js, Angular.js  
-Rspec, Jasmine, Mocha, 
+Ruby, Rails, Javascript, Node.js, Angular.js, Sinatra , Unity  
+Rspec, Jasmine, Mocha, Chai
+Bootstrap, 
 GitHub
   
 Reading University (2013-2016) 
